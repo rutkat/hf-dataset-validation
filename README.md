@@ -7,9 +7,9 @@ Agent Skill for Huggingface Dataset validation
 4. Run helper scripts
 
 **Test Prompts**
-Give Claude these prompts:
--Prompt 1: "Validate my dataset file @test_data/sample.csv before training."
--Prompt 2: "Check if the csv file is ready to share."
+Give Claude these prompts:  
+-Prompt 1: "Validate my dataset file @test_data/sample.csv before training."  
+-Prompt 2: "Check if the csv file is ready to share."  
 
 
 ```
